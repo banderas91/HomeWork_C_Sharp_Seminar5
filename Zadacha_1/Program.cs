@@ -28,4 +28,3 @@ for (int i =0; i< N; i++)
 
 Console.WriteLine(" равно  " + Count);
  
-     
